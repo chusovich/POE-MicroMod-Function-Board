@@ -1,4 +1,5 @@
 (sym_lib_table
   (version 7)
   (lib (name "MicroMod")(type "KiCad")(uri "${KIPRJMOD}/libraries/Symbols/MicroMod.kicad_sym")(options "")(descr ""))
+  (lib (name "HY931147C")(type "EasyEDA (JLCEDA) Std")(uri "${KIPRJMOD}/libraries/Symbols/SCHLIB_HY931147C_2025-08-22.json")(options "")(descr ""))
 )
